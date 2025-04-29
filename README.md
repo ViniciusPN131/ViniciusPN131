@@ -41,5 +41,5 @@ Estudante de Análise e Desenvolvimento de Sistemas com paixão por desenvolvime
 ### 📫 Entre em Contato
 
 - Email: [viniciuspn13@gmail.com]  
-- LinkedIn: [https://github.com/ViniciusPN131](https://github.com/ViniciusPN131)
+- LinkedIn: [https://linkedin.com/ViniciusPN131](https://br.linkedin.com/in/vinicius-peter-nunes)
 
