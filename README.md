@@ -33,7 +33,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com paixão por desenvolvime
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPN131&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub">
 </p>
 
 ---
@@ -41,5 +41,5 @@ Estudante de Análise e Desenvolvimento de Sistemas com paixão por desenvolvime
 ### 📫 Entre em Contato
 
 - Email: [viniciuspn13@gmail.com]  
-- LinkedIn: [https://linkedin.com/ViniciusPN131](https://br.linkedin.com/in/vinicius-peter-nunes)
+- LinkedIn: [https://linkedin.com/vinicius-peter-nunes](https://br.linkedin.com/in/vinicius-peter-nunes)
 
