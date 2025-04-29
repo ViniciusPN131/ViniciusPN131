@@ -30,29 +30,10 @@ Estudante de Análise e Desenvolvimento de Sistemas com paixão por desenvolvime
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ViniciusPN131&theme=onestar&column=4" alt="GitHub Trophies">
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPN131&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub">
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusPN131&theme=tokyonight" alt="GitHub Streak">
-</p>
-
----
-
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ViniciusPN131/ViniciusPN131/main/github-metrics.svg" alt="GitHub Metrics">
 </p>
 
 ---
@@ -61,9 +42,3 @@ Estudante de Análise e Desenvolvimento de Sistemas com paixão por desenvolvime
 
 - 📧 Email: [viniciuspn13@gmail.com](mailto:viniciuspn13@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/vinicius-peter-nunes](https://br.linkedin.com/in/vinicius-peter-nunes)
-
----
-
-### 💡 Frase que me inspira
-
-> “A melhor forma de prever o futuro é criá-lo.” – Alan Kay
