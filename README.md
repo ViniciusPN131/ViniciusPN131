@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá! Eu sou Vinícius Peter Nunes 👋</h1>
 
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas com paixão por desenvolvimento e tecnologia!
@@ -40,11 +40,6 @@ Estudante de Análise e Desenvolvimento de Sistemas com paixão por desenvolvime
 
 ### 📫 Entre em Contato
 
-- Email: [seu-email@example.com]  
-- LinkedIn: [https://linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+- Email: [viniciuspn13@gmail.com]  
+- LinkedIn: [https://linkedin.com/in/viniciuspn131](https://linkedin.com/in/viniciuspn131)
 
----
-
-### 💡 Frase que me inspira
-
-> “A melhor forma de prever o futuro é criá-lo.” – Alan Kay
