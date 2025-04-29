@@ -41,5 +41,5 @@ Estudante de Análise e Desenvolvimento de Sistemas com paixão por desenvolvime
 ### 📫 Entre em Contato
 
 - Email: [viniciuspn13@gmail.com]  
-- LinkedIn: [https://linkedin.com/in/viniciuspn131](https://linkedin.com/in/viniciuspn131)
+- LinkedIn: [https://github.com/ViniciusPN131](https://github.com/ViniciusPN131)
 
